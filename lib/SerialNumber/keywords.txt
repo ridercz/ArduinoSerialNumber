@@ -1,0 +1,7 @@
+# Keyword definition for Arduino IDE
+
+SerialNumber        KEYWORD1
+hasSerialNumber     KEYWORD2
+getSerialNumber     KEYWORD2
+setSerialNumber     KEYWORD2
+clearSerialNumber   KEYWORD2

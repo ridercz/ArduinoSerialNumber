@@ -1,0 +1,17 @@
+{
+    "name": "Arduino-SerialNumber",
+    "description": "Library for creating and managing serial numbers for Arduino-based devices.",
+    "authors": {
+        "name": "Michal Altair Valášek",
+        "url": "https://www.rider.cz/",
+        "maintainer": true
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/ridercz/ArduinoSerialNumber.git"
+    },
+    "version": "1.0.0",
+    "license": "MIT",
+    "include": "lib/SerialNumber",
+    "frameworks": "Arduino"
+}
