@@ -10,7 +10,7 @@ The serial number (which can have variable length, but by default is 8 bytes lon
 
 Initializes the class with default values
 
-### Constructor SerialNumber(int length = 8, char *prefix = (char*)"SN", int prefix_length = 2)
+### Constructor SerialNumber(int length = 8, char\* prefix = (char\*)"SN", int prefix_length = 2)
 
 Initializes the class with custom serial number length and prefix
 
